@@ -1,26 +1,27 @@
-# Işık Psikoloji Web Sitesi
+﻿# IÅŸÄ±k Psikoteknik Web Sitesi
 
-Bu proje, Işık Psikoloji için hazırlanmış modern, premium ve hızlı bir web sitesi şablonudur.
+Bu proje, IÅŸÄ±k Psikoteknik iÃ§in hazÄ±rlanmÄ±ÅŸ modern, premium ve hÄ±zlÄ± bir web sitesi ÅŸablonudur.
 
-## Kullanılan Teknolojiler
-- HTML5 (Semantik yapı)
-- CSS3 (Modern tasarım, Flexbox/Grid, Animasyonlar)
-- JavaScriptES6+ (İnteraktif öğeler)
-- Lucide Icons (Modern ikon kütüphanesi)
+## KullanÄ±lan Teknolojiler
+- HTML5 (Semantik yapÄ±)
+- CSS3 (Modern tasarÄ±m, Flexbox/Grid, Animasyonlar)
+- JavaScriptES6+ (Ä°nteraktif Ã¶ÄŸeler)
+- Lucide Icons (Modern ikon kÃ¼tÃ¼phanesi)
 - Google Fonts (Outfit & Playfair Display)
 
-## Bölümler
-- **Kahraman (Hero) Bölümü:** Dikkat çekici giriş ve randevu butonları.
-- **Hakkımızda:** Klinik hakkında bilgi ve istatistikler.
-- **Hizmetler:** İnce animasyonlu hizmet kartları.
-- **İletişim:** Bilgi ve randevu formu.
+## BÃ¶lÃ¼mler
+- **Kahraman (Hero) BÃ¶lÃ¼mÃ¼:** Dikkat Ã§ekici giriÅŸ ve randevu butonlarÄ±.
+- **HakkÄ±mÄ±zda:** Klinik hakkÄ±nda bilgi ve istatistikler.
+- **Hizmetler:** Ä°nce animasyonlu hizmet kartlarÄ±.
+- **Ä°letiÅŸim:** Bilgi ve randevu formu.
 
-## Nasıl Kullanılır?
-1. `index.html` dosyasını tarayıcınızda açarak siteyi görüntüleyebilirsiniz.
-2. `assets/hero.png` dosyasını kendi profesyonel fotoğraflarınızla değiştirebilirsiniz.
-3. `style.css` dosyasından renkleri ve fontları özelleştirebilirsiniz.
+## NasÄ±l KullanÄ±lÄ±r?
+1. `index.html` dosyasÄ±nÄ± tarayÄ±cÄ±nÄ±zda aÃ§arak siteyi gÃ¶rÃ¼ntÃ¼leyebilirsiniz.
+2. `assets/hero.png` dosyasÄ±nÄ± kendi profesyonel fotoÄŸraflarÄ±nÄ±zla deÄŸiÅŸtirebilirsiniz.
+3. `style.css` dosyasÄ±ndan renkleri ve fontlarÄ± Ã¶zelleÅŸtirebilirsiniz.
 
-## SEO Özellikleri
-- Sayfa başlığı ve meta açıklaması optimize edilmiştir.
+## SEO Ã–zellikleri
+- Sayfa baÅŸlÄ±ÄŸÄ± ve meta aÃ§Ä±klamasÄ± optimize edilmiÅŸtir.
 - Mobil uyumludur (Responsive).
-- Semantik HTML etiketleri kullanılmıştır.
+- Semantik HTML etiketleri kullanÄ±lmÄ±ÅŸtÄ±r.
+
